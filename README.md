@@ -10,7 +10,7 @@
 ## Results
 
 - In the first part of the analysis, a query was created to illustrate the number of employees in the range of retirement per job title.
-![retiring_titles.png](https://github.com/Paul-Lecander/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png.png)\
+![retiring_titles.png](https://github.com/Paul-Lecander/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png.png)</br>
 
 - This table shows there are 72,458 employees from Pewlett Hackard that are in the range for retirement and from 7 different titles/roles.
 
