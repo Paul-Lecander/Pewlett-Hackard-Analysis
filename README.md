@@ -4,8 +4,8 @@
 
 - Pewlett Hackard is a company that has an issue with many employees nearing retirement. To prepare for a wave of departing employees, this challenge was made to address the following using PosteSQL:
 
-1.) Determining how many retiring employees per job title
-2.) Identifying employees that were eligible to participate in a mentorship program
+1) Determining how many retiring employees per job title</br>
+2) Identifying employees that were eligible to participate in a mentorship program</br>
 
 ## Results
 
