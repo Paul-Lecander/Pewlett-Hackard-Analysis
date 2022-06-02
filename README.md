@@ -2,14 +2,15 @@
 
 ## Overview
 
-- Pewlett Hackard is a company that has an issue with many employees nearing retirement. To prepare for a wave of departing employees, this challenge was made to address the following using PosteSQL:
+Pewlett Hackard is a company that has an issue with many employees nearing retirement. To prepare for a wave of departing employees, this challenge was made to address the following using PosteSQL:
 
 1) Determining how many retiring employees per job title</br>
 2) Identifying employees that were eligible to participate in a mentorship program</br>
 
 ## Results
 
-- In the first part of the analysis, a query was created to illustrate the number of employees in the range of retirement per job title.
+- In the first part of the analysis, a query was created to illustrate the number of employees in the range of retirement per job title.</br>
+
 ![retiring_titles.png](https://github.com/Paul-Lecander/Pewlett-Hackard-Analysis/blob/main/retiring_titles.png.png)</br>
 
 - This table shows there are 72,458 employees from Pewlett Hackard that are in the range for retirement and from 7 different titles/roles.
