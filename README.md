@@ -1,4 +1,4 @@
-# Module 7 SQL Challenge: Pewlett Hackard 'Silver Wave' Analysis
+# Pewlett Hackard 'Silver Wave' Analysis With SQL
 
 ## Overview
 
